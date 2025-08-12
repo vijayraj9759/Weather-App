@@ -1,12 +1,51 @@
-# React + Vite
+# 🌦 WeatherNow – Real-Time Weather App Using RapidAPI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Project Title & Objective  
+**WeatherNow** – A sleek, responsive weather application that fetches **real-time weather data** using **OpenWeatherMap API**
+**Objective:**  
+- Integrate and work with **third-party public APIs**.  
+- Parse and display **JSON data** dynamically.  
+- Build a **modern and fully responsive UI** without a backend.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📄 Project Description  
+WeatherNow is a **frontend-only weather app** built using **React.js** and **Tailwind CSS** that allows users to search for any city worldwide and instantly view real-time weather data.  
 
-## Expanding the ESLint configuration
+The application shows:  
+- 🌡 **Temperature**  
+- 🌤 **Weather Conditions** (Sunny, Cloudy, Rainy, etc.)  
+- 💧 **Humidity**  
+- 🌬 **Wind Speed**  
+- 📍 **City & Country Name**  
+- 📏 **Pressure & Visibility**  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+With a clean and responsive design, WeatherNow works flawlessly on desktops, tablets, and mobile devices. API requests are made directly from the client using  **Fetch API**.  
+
+---
+
+## 🔗 GitHub Repository  
+[📂 View Code on GitHub](https://github.com/vijayraj9759/Weather-App)
+
+---
+
+## 🌐 Live Demo  
+- **Frontend (Client):** [WeatherNow Live App](https://vspweatherapp.netlify.app/)  
+
+---
+
+## 🛠 Technologies Used  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS  
+- **API Source:** OpenWeatherMap API
+- **Tools:** Git, GitHub, Vite  
+
+---
+
+## ⚙️ Setup Instructions  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/vijayraj9759/Weather-App.git
+cd Weather-App
+
+
